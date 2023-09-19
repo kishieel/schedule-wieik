@@ -14,6 +14,7 @@ export default {
         lab: '#e09a26',
         lecture: '#47addf',
         project: '#a454e9',
+        lang: '#ff0101',
         eng: '#006d75',
         java: '#eb2f96',
         obj: '#fa541c',

@@ -29,6 +29,7 @@ const GROUPS_OPTIONS = [
   { name: 'Lab. komputerowe', options: ['LK1', 'LK2', 'LK3'] },
   { name: 'Lab. sprzętowe', options: ['L1', 'L2', 'L3', 'L4'] },
   { name: 'Projekt', options: ['P1', 'P2', 'P3'] },
+  { name: 'Lektorat', options: ['LEK1', 'LEK2'] },
 ] as const;
 
 export { HOURS, WEEKDAY, GROUPS_OPTIONS };

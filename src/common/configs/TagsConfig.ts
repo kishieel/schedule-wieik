@@ -3,6 +3,7 @@ export const ClassTypeBg = {
   l: 'bg-lab',
   lk: 'bg-compLab',
   p: 'bg-project',
+  lang: 'bg-lang',
 };
 
 export const ClassTypeSubject = {

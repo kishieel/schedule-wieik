@@ -32,6 +32,8 @@ type Group =
   | 'l1'
   | 'l2'
   | 'l3'
-  | 'l4';
+  | 'l4'
+  | 'lek1'
+  | 'lek2';
 
 export type { ClassInterface, DayClassesInterface };

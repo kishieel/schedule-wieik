@@ -20,6 +20,8 @@ export const getFilteredData = (
 
   if (options.length < 1) return filteredData;
 
+  console.log(options);
+
   return filteredData.reduce((acc, val) => {
     const newObj = {
       date: val.date,
